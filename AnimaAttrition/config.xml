@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.jules.animaattrition" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>AnimaAttrition</name>
+    <description>A hack-and-slash game about facing your inner demons.</description>
+    <author email="dev@jules.dev" href="http://jules.dev">
+        Jules
+    </author>
+    <content src="index.html" />
+    <preference name="Orientation" value="landscape" />
+    <preference name="Fullscreen" value="true" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
